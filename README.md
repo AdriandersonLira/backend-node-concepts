@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" width="100%" height="300px" background="#000">
     <img alt="Backend Node" title="Backend Node" src="logo.svg" width="220px" />
 </h1>
 
@@ -12,16 +12,10 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
 
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://img.shields.io/static/v1?label=JS&message=Node&color=3E863D&labelColor=000000" alt="Node.JS!" />
 </p>
-
-
 
 <br>
-
-<p align="center">
-  <img alt="Ecoleta" src="starter/public/assets/ecoleta.png" width="100%">
-</p>
 
 ## 🚀 Tecnologia
 
