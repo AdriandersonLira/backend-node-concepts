@@ -65,6 +65,10 @@ Nesse projeto contém os primeiros conceitos do Node.js. Dentre eles tem:
     "start": "nodemon"
   },
 ```
+> Instalação do cors.
+```
+> yarn add cors
+```
 > Agora inicia o servidor e ele dessa vez ele vai fazer o refresh automaticamente.
 ```
 > yarn start
