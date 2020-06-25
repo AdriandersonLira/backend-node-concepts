@@ -1,5 +1,5 @@
 <h1 align="center" width="100%" height="300px" background="#000">
-    <img alt="Backend Node" title="Backend Node" src="logo.svg" width="220px" />
+    <img alt="Backend Node" title="Backend Node" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="220px" />
 </h1>
 
 <p align="center">
